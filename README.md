@@ -1,2 +1,6 @@
-this is read me
+# BilList
+
+## setup project
+
+### git clone the repository
 
